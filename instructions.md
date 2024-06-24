@@ -3,4 +3,4 @@ layout: page
 title: "Instructions"
 ---
 
-Hallo
+Give detailed instructions and explain tasks
