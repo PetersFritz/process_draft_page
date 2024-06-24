@@ -3,4 +3,4 @@ layout: page
 title: "Submission"
 ---
 
-Hallo
+How to submit results
