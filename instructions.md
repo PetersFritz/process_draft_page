@@ -24,7 +24,7 @@ $$ \text{Recall} = \frac{1}{N} \times \frac{TP_i}{TP_i + FN_i} $$
 
 $$ \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}} $$
 
-where $N$ is the number of diagnostic classes, $TP_i$, $FP_i$, and $FN_i$ are true positives, false positives, and false negatives for the $i$-th class, respectively.
+where \( N \) is the number of diagnostic classes, \( TP_i \), \( FP_i \), and \( FN_i \) are true positives, false positives, and false negatives for the \( i \)-th class, respectively.
 
 ## Regression task
 
@@ -42,8 +42,8 @@ $$ S_{k} = \frac{F1 \, \text{Score}_{k}}{\sum_{j}^{T} F1 \, \text{Score}_{j}} + 
 
 where $S_{k}$ is the total score of participant $k$ and $T$ is the total number of participants in the challenge. If a participant does not submit results for a task, the score for that task is set to 0. The following five participants will be invited to submit their papers: 
 
-- item The top two participants with the highest F1 score in the classification task.
-- item The top two participants with the lowest RMSE in the regression task.
-- item The participant with the highest combined ranking score.
+- The top two participants with the highest F1 score in the classification task.
+- The top two participants with the lowest RMSE in the regression task.
+- The participant with the highest combined ranking score.
 
 If a participant submits both classification and regression tasks and is invited for both, their invitation will be based on the higher ranking task. Participants invited for either the classification or regression tasks will not be considered for the joint ranking. This ranking criteria follows our sister challenge, the ICASSP 2023 and is designed to encourage participants to engage in both tasks simultaneously as it increases their likelihood of receiving an invitation.
