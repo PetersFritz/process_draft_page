@@ -34,7 +34,7 @@ The evaluation of the regression task will be via the root mean squared error (R
 $$ \mathrm{RMSE} = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N}} $$
 
 
-where $y_i$ is the actual MMSE score and $\hat{y}_i$ is the predicted MMSE score.
+where $$y_i$$ is the actual MMSE score and $\hat{y}_i$ is the predicted MMSE score.
 
 The ranking rules are divided into classification task ranking, regression task ranking, and a joint, combined ranking. The combined ranking evaluates performance across both tasks. The combined ranking criteria are:
 
