@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
+  - {file: "schedule.md"}
   - {file: "dataset.md"}
   - {file: "instructions.md"}
   - {file: "download.md"}
