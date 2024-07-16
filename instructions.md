@@ -38,7 +38,7 @@ where $y_i$ is the actual MMSE score and $\hat{y}_i$ is the predicted MMSE score
 
 The ranking rules are divided into classification task ranking, regression task ranking, and a joint, combined ranking. The combined ranking evaluates performance across both tasks. The combined ranking criteria are:
 
-$$ S_{k} = \frac{F1 \, \text{Score}_{k}}{\sum_{j=1}^{T} F1 \, \text{Score}_{j}} + 1 - \frac{\mathrm{RMSE}_{i}}{\sum_{j=1}^{T} \mathrm{RMSE}_{j}} $$
+$$ S_{k} = \frac{F1 \, \text{Score}_{k}}{\sum_{j}^{T} F1 \, \text{Score}_{j}} + 1 - \frac{\mathrm{RMSE}_{i}}{\sum_{j}^{T} \mathrm{RMSE}_{j}} $$
 
 where $S_{k}$ is the total score of participant $k$ and $T$ is the total number of participants in the challenge. If a participant does not submit results for a task, the score for that task is set to 0. The following five participants will be invited to submit their papers: 
 
