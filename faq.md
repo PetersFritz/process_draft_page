@@ -3,4 +3,4 @@ layout: page
 title: "FAQ"
 ---
 
-FAQ 
+FAQs will be dynamically extended with upcoming questions. 
