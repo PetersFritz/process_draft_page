@@ -5,8 +5,8 @@ title: "Instructions"
 ---
 
 # Tasks
-1. **Classification**
-2. **Regression**
+1. **Classification**: This task is aimed at identifying those with different cognitive impairments and dementia from healthy volunteers through the processing of their speech.
+2. **Regression**: This task is to predict the corresponding Mini Mental Status Examination (MMSE) score of speakers from their speech.
 
 # Evaluation 
 ## Classification task 
