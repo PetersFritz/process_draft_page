@@ -22,6 +22,8 @@ and expression.
 - **Cookie Theft** picture description. Figure 1 shows the picture of Cookie Theft which speakers are asked to describe.
 This approach is widely used to collect audio in dementia detection research. This type of audio is expected to reflect various cognitive functions of speakers, such as language comprehension and memory.
 
+![Cookie Theft](/assets/CookieTheft.png))
+
 ### The Corpus
 
 The training and development sets consist of audio recordings and corresponding manual transcripts of each prompt for every speaker. For the classification task, we provide a diagnosis for each speaker (such as healthy volunteer, MCI and dementia), while for the regression task, we provide the MMSE score for each speaker.
