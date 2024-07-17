@@ -22,7 +22,9 @@ and expression.
 - **Cookie Theft** picture description. Figure 1 shows the picture of Cookie Theft which speakers are asked to describe.
 This approach is widely used to collect audio in dementia detection research. This type of audio is expected to reflect various cognitive functions of speakers, such as language comprehension and memory.
 
-![Cookie Theft](/assets/CookieTheft.png)
+![Cookie Theft](/assets/CookieTheft2.png)
+
+**Fig. 1.** Cookie Theft picture from the Boston Diagnostic Aphasia Examination.
 
 ### The Corpus
 
